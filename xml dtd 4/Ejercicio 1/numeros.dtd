@@ -1,0 +1,2 @@
+<!ELEMENT numeros (numero)>
+<!ELEMENT numero (#PCDATA)>

@@ -1,0 +1,2 @@
+<!ELEMENT animales (animal+)>
+<!ELEMENT animal (#PCDATA)>

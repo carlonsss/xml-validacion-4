@@ -1,0 +1,12 @@
+<!-- 
+Nombre: Carlos Gil
+Curso: [Asir] 
+Fecha: [6/4/2025] 
+Ejercicio: [Animales] 
+-->
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE animales SYSTEM "animales.dtd">
+<animales>
+    <animal>Caniche</animal>
+    <animal>Siames</animal>
+</animales>

@@ -1,0 +1,12 @@
+<!-- 
+Nombre: Carlos Gil
+Curso: [Asir] 
+Fecha: [6/4/2025] 
+Ejercicio: [Flores] 
+-->
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE flores SYSTEM "flores.dtd">
+<flores>
+    <flor>rosa</flor>
+    <flor>tulipán</flor>
+</flores>

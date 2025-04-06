@@ -1,0 +1,2 @@
+<!ELEMENT flores (flor+)>
+<!ELEMENT flor (#PCDATA)>

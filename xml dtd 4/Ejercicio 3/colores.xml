@@ -1,0 +1,13 @@
+<!-- 
+Nombre: Carlos Gil
+Curso: [Asir] 
+Fecha: [6/4/2025] 
+Ejercicio: [Colores] 
+-->
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE colores SYSTEM "colores.dtd">
+<colores>
+    <color>azul marino</color>
+    <color>negro</color>
+    <color>amarillo</color>
+</colores>
